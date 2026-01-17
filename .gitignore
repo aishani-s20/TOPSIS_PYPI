@@ -1,0 +1,18 @@
+# --- Build Artifacts (Don't upload these!) ---
+dist/
+build/
+*.egg-info/
+
+# --- Python Generated Files ---
+__pycache__/
+*.pyc
+
+# --- Environments ---
+.env
+.venv
+env/
+venv/
+ENV/
+
+# --- VS Code Settings (Optional) ---
+.vscode/
