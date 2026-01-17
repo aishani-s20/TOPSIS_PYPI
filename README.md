@@ -51,7 +51,7 @@ topsis <InputDataFile> <Weights> <Impacts> <OutputResultFileName>
 
 ---
 
-## Example
+## 📝 Example
 
 ### Sample Input (`data.csv`)
 
@@ -93,7 +93,7 @@ The output file contains the original data along with two additional columns:
 
 ---
 
-## Constraints & Validations
+## ✅ Constraints & Validations
 
 - Input file must be a valid **CSV**.
 - Input file must contain **at least three columns**.
@@ -107,13 +107,13 @@ The output file contains the original data along with two additional columns:
 
 ---
 
-## Interpretation
+## 📈 Interpretation
 
 - A **higher TOPSIS score** indicates a better alternative.
 - **Rank 1** represents the most preferred option based on given weights and impacts.
 
 ---
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License.
