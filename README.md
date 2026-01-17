@@ -38,14 +38,14 @@ topsis <InputDataFile> <Weights> <Impacts> <OutputResultFileName>
 
 ### Sample Input (`data.csv`)
 
-```csv
-Model,Storage,Camera,Price,Looks
-M1,16,12,250,5
-M2,16,8,200,3
-M3,32,16,300,4
-M4,32,8,275,4
-M5,16,16,225,2
-```
+| Model | Storage | Camera | Price | Looks |
+|------|---------|--------|-------|-------|
+| M1 | 16 | 12 | 250 | 5 |
+| M2 | 16 | 8 | 200 | 3 |
+| M3 | 32 | 16 | 300 | 4 |
+| M4 | 32 | 8 | 275 | 4 |
+| M5 | 16 | 16 | 225 | 2 |
+
 
 ---
 
@@ -65,14 +65,14 @@ The output file contains the original data along with two additional columns:
 - **Topsis Score**
 - **Rank**
 
-```csv
-Model,Storage,Camera,Price,Looks,Topsis Score,Rank
-M1,16,12,250,5,0.53428,3
-M2,16,8,200,3,0.30837,5
-M3,32,16,300,4,0.69163,1
-M4,32,8,275,4,0.53474,2
-M5,16,16,225,2,0.40105,4
-```
+| Model | Storage | Camera | Price | Looks | Topsis Score | Rank |
+|------|---------|--------|-------|-------|--------------|------|
+| M1 | 16 | 12 | 250 | 5 | 0.53428 | 3 |
+| M2 | 16 | 8 | 200 | 3 | 0.30837 | 5 |
+| M3 | 32 | 16 | 300 | 4 | 0.69163 | 1 |
+| M4 | 32 | 8 | 275 | 4 | 0.53474 | 2 |
+| M5 | 16 | 16 | 225 | 2 | 0.40105 | 4 |
+
 
 ---
 
