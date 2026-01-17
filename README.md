@@ -15,7 +15,7 @@ pip install Topsis-Aishani-102303250
 ## Usage
 
 You can use this package via the command line.  
-The input file must be a **CSV file containing numeric data**.
+The input file must be a **CSV file containing numeric data or categorical data**.
 
 ---
 
