@@ -1,12 +1,11 @@
 # TOPSIS Command Line Tool
 
-# 📊 **Topsis-Aishani-102303250** is a package that provides a command-line implementation of the **TOPSIS (Technique for Order Preference by Similarity to Ideal Solution)** method for multi-criteria decision making.
+## 📊 **Topsis-Aishani-102303250** is a package that provides a command-line implementation of the **TOPSIS (Technique for Order Preference by Similarity to Ideal Solution)** method for multi-criteria decision making.
 
 
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![PyPI](https://img.shields.io/badge/Pypi-v1.0.1-orange?style=for-the-badge&logo=pypi&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Download](https://img.shields.io/pypi/dm/Topsis-Aishani-102303250?style=for-the-badge&color=blueviolet)
 
 ## 🔗 Links & Download
 
